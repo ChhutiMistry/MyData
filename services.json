@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "product_name": "Soft-skills training",
+        "category": "Crop and Prop",
+        "category_id": 1,
+        "price": 2000,
+        "image": "https://i.ibb.co/3mYZgSq/Soft-skills-training.jpg",
+        "service": "Group",
+        "session": "Distant"
+    },
+    {
+        "id": 2,
+        "product_name": "Career Counselling",
+        "category": "Crop and Prop",
+        "category_id": 1,
+        "price": 1500,
+        "image": "https://i.ibb.co/4dqtK3t/Career-Counselling.jpg",
+        "service": "Group",
+        "session": "Distant"
+    },
+    {
+        "id": 3,
+        "product_name": "Counselling and Psychotherapy",
+        "category": "Heal in Deal",
+        "category_id": 2,
+        "price": 2000,
+        "image": "https://i.ibb.co/cb3JVPX/Counselling-and-Psychotherapy.jpg", 
+        "service": "Individual",
+        "session": "In-person"
+    },
+    {
+        "id": 4,
+        "product_name": "Bach Flower Therapy",
+        "category": "Heal in Deal",
+        "category_id": 2,
+        "price": 200,
+        "image":"https://i.ibb.co/fCPDR3Y/Bach-Flower-Therapy.jpg",
+        "service": "Individual",
+        "session": "Distant"
+    },
+    {
+        "id": 5,
+        "product_name": "Graphology",
+        "category": "be Sharp with Spark",
+        "category_id": 3,
+        "price": 500,
+        "image":"https://i.ibb.co/xhQGzsZ/Handwriting-Analysis.png",
+        "service": "Individual",
+        "session": "In-person"
+    },
+    {
+        "id": 6,
+        "product_name": "Life Coaching",
+        "category": "be Sharp with Spark",
+        "category_id": 3,
+        "price": 5000,
+        "image":"https://i.ibb.co/bQk62Xz/Life-Coaching.jpg",
+        "service": "Individual",
+        "session": "In-person"
+    }
+]
