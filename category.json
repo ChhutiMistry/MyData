@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
-        "category": "Crop and Prop"
+        "category": "Crop and Prop",
+        "image": "https://i.ibb.co/vwb7wsy/Crop-and-Prop.png"
     },
     {
         "id": 2,
-        "category": "Heal in Deal"
+        "category": "Heal in Deal",
+        "image": "https://i.ibb.co/Qv3K2JC/Heal-in-Deal.png"
     },
     {
         "id": 3,
-        "category": "be Sharp with Spark"
+        "category": "be Sharp with Spark",
+        "image": "https://i.ibb.co/4ZXXZHb/be-Sharp-with-Spark.png"
     }
 ]
